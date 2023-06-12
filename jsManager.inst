@@ -1,0 +1,17 @@
+move-file ClearScript.Core.dll ClearScript.Core.DLL
+move-file ClearScript.Core.xml ClearScript.Core.XML
+move-file ClearScript.V8.dll ClearScript.V8.DLL
+move-file ClearScript.V8.ICUData.dll ClearScript.V8.ICUData.DLL
+move-file ClearScript.V8.ICUData.xml ClearScript.V8.ICUData.XML
+move-file ClearScript.V8.xml ClearScript.V8.XML
+move-file ClearScript.Windows.Core.dll ClearScript.Windows.Core.DLL
+move-file ClearScript.Windows.Core.xml ClearScript.Windows.Core.XML
+move-file ClearScript.Windows.dll ClearScript.Windows.DLL
+move-file ClearScript.Windows.xml ClearScript.Windows.XML
+move-file ClearScriptV8.win-x64.dll ClearScriptV8.win-x64.DLL
+move-file ClearScriptV8.win-x86.dll ClearScriptV8.win-x86.DLL
+move-file jsHost^Documentation.pdf jsHost^Documentation.PDF
+move-file jsHost.exe jsHost.EXE
+move-file jsManager.exe jsManager.EXE
+move-file Newtonsoft.Json.dll Newtonsoft.Json.DLL
+move-file Newtonsoft.Json.xml Newtonsoft.Json.XML
