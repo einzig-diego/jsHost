@@ -12,6 +12,8 @@ move-file ClearScriptV8.win-x64.dll ClearScriptV8.win-x64.DLL
 move-file ClearScriptV8.win-x86.dll ClearScriptV8.win-x86.DLL
 move-file jsHost*Documentation.pdf jsHost*Documentation.PDF
 move-file jsHost.exe jsHost.EXE
+move-file jsHost.exe.config jsHost.EXE.CONFIG
+move-file jsHost.pdb jsHost.PDB
 move-file jsManager.exe jsManager.EXE
 move-file Newtonsoft.Json.dll Newtonsoft.Json.DLL
 move-file Newtonsoft.Json.xml Newtonsoft.Json.XML
