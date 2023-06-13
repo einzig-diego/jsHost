@@ -18,4 +18,3 @@ move-file jsManager.exe jsManager.EXE
 move-file Newtonsoft.Json.dll Newtonsoft.Json.DLL
 move-file Newtonsoft.Json.xml Newtonsoft.Json.XML
 move-file nFExtensionAPI.dll nfExtensionAPI.DLL
-                                                
